@@ -1,2 +1,0 @@
-# Ottespa-ol
-Ottespañol
