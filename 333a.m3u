@@ -1,7 +1,0 @@
-#EXTM3U url-tvg=""
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="0000" group-title="0000",rcn
-http://cloud.flynet.sv:1935/live/canal-010/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="0000" group-title="0000",noticias caracol
-http://cloud.flynet.sv:1935/live/canal-010/playlist.m3u8
