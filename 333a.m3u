@@ -1,0 +1,7 @@
+#EXTM3U url-tvg=""
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="0000" group-title="0000",rcn
+http://rcn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="0000" group-title="0000",noticias caracol
+http://noticias_caracol.m3u8
