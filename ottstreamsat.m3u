@@ -13,7 +13,7 @@ http://190.90.71.103:8000/play/a03s/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -24,7 +24,7 @@ https://inliveserver.com:1936/18506/18506/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -46,7 +46,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1383242691.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -57,7 +57,7 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w840626865.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -101,7 +101,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -112,7 +112,7 @@ https://a2bf2aac.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -123,7 +123,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4475&avod=1&coppa=0&is_lat
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -134,7 +134,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999242
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -145,7 +145,7 @@ https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -167,7 +167,7 @@ http://190.90.71.103:8000/play/a01l/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -178,7 +178,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -189,7 +189,7 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -211,7 +211,7 @@ http://190.90.71.103:8000/play/a03r/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -222,7 +222,7 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -233,7 +233,7 @@ https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -244,7 +244,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -255,7 +255,7 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -266,7 +266,7 @@ https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -277,7 +277,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -288,7 +288,7 @@ https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -299,7 +299,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -310,18 +310,17 @@ https://live.amelbatv.co:81/bethelcolombia/index.fmp4.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
-#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (rv:148.0) Gecko/148.0 Firefox/148.0
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",029. tv gracia
-https://vs20.live.opencaster.com/diego_57244803/index.m3u8?token=Ns2tfWeGIcosXuMMKvNYVpof07TtwXMDQHZF2da%2BlAw%3D
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8?
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=DRM Player/2.4.3 (Linux; Android 11; SM-A032M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -332,7 +331,7 @@ https://jstre.am/live/jsl:umb9869epxt.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -343,7 +342,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -354,7 +353,7 @@ https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGci
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -365,7 +364,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -376,7 +375,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -387,7 +386,7 @@ https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -398,7 +397,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=DRM Player/2.4.3 (Linux; Android 11; SM-A032M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -409,7 +408,7 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -420,7 +419,7 @@ https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -431,7 +430,7 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -442,7 +441,7 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -453,7 +452,7 @@ https://redradioypc.com:8028/stream
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -475,7 +474,7 @@ http://181.118.158.103:8000/play/a00i/index.m3u8?hls
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -486,7 +485,7 @@ https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -497,7 +496,7 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -508,7 +507,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -519,7 +518,7 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -530,7 +529,7 @@ https://jmp2.uk/rok-34beeb8efcb656f08d91298bb94e1815.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -552,7 +551,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814578/hls/master.m3u8?includeAsse
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -585,7 +584,7 @@ http://181.118.156.46:8000/play/a03r/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -596,7 +595,7 @@ https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -618,7 +617,7 @@ https://api-ott.chicasguapas.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=dis
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -629,7 +628,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -650,14 +649,14 @@ https://jmp2.uk/rok-5d1c16bba82b53e69bf979c2fdca4ca8.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=VLC/3.5.4 LibVLC/3.5.4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",060. sony one novelas
-https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8 
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",060. todo novelas
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18d7b0431f385ba055b38&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=tv%20novelas&AV_CONTENT_CAT=IAB1-5&AV_CONTENT_RATING=PG&AV_CLIENT_SECTION=zylo_todonovelas&content_channel_name=todonovelas&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
@@ -683,7 +682,7 @@ http://190.116.65.158:8000/play/a0b9/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -694,7 +693,7 @@ https://live-manifest.production-public.tubi.io/live/67689dff-49e1-4e3e-bc75-2b2
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -705,7 +704,7 @@ https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -716,7 +715,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951140/hls/master.m3u8?ads.xumo_cha
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -727,7 +726,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -738,7 +737,7 @@ https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -771,7 +770,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16intern
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -782,7 +781,7 @@ https://amg27441-amg27441c1-rlaxx-us-10923.playouts.now.amagi.tv/playlist/amg274
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -826,7 +825,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/VVP0MGDRUILC8BDR6S0M/hls3/now
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -837,7 +836,7 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999225
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -870,7 +869,7 @@ https://streaming013.gestec-video.com/hls/negociostv.m3u8?ads.dpname=distrotv&ad
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -914,7 +913,7 @@ http://45.173.231.22:8000/play/a03r/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -925,7 +924,7 @@ https://live.presstv.ir/hls/hispantv_5_482/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -947,7 +946,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -980,7 +979,7 @@ http://181.78.12.164:9000/play/ch43?hls
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) (Linux; Android 11; SM-A032M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -991,7 +990,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1013,7 +1012,7 @@ http://45.186.106.152:8000/play/a0gi/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=VLC/3.5.4 LibVLC/3.5.4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1024,7 +1023,7 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1046,7 +1045,7 @@ https://jmp2.uk/rok-a9aae4e62e6fd8e401033cd14ceeaaa2.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1057,7 +1056,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1068,7 +1067,7 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1101,7 +1100,7 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1112,7 +1111,7 @@ https://jmp2.uk/rok-ceb64d994c7756c2a8f09ace94c3e43f.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1123,7 +1122,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13741&avod=1&coppa=0&td=6&
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1134,7 +1133,7 @@ https://jmp2.uk/rok-46eb1feb60da2bc45bee66f313b564de.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1145,7 +1144,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13917&avod=1&coppa=0&td=6&
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1156,7 +1155,7 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1167,25 +1166,25 @@ https://v2.tustreaming.cl/catvlive/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",107. mvstv
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",107. mvs tv
 https://jmp2.uk/rok-8beb5cd21be40d22c11c6e9bd6fa3d01.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",108. chacra tv
-https://g4.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8? 
+https://g4.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
@@ -1255,7 +1254,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeeme
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1266,7 +1265,7 @@ https://amg00793-amg00793c24-vidaa-gb-9957.playouts.now.amagi.tv/ts-eu-w1-n2/pla
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1277,7 +1276,7 @@ https://jmp2.uk/rok-098bce44be895630a3e437516fe70853.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1311,7 +1310,7 @@ http://38.51.234.11:8888/play/a0gl/index.m3u8?auth=38.51.234.11%3A8888
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1344,7 +1343,7 @@ http://45.171.64.30:8800/play/a021
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1387,7 +1386,7 @@ http://www.1play.cool:25461/JimmyLopez68/e2aeb7d9d22b/151356
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux}
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1398,7 +1397,7 @@ https://s9host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1409,7 +1408,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1420,7 +1419,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1431,7 +1430,7 @@ https://74ae630f9c484b1c9d557d7015d8f811.mediatailor.us-east-1.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1442,7 +1441,7 @@ https://s10host4.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1453,7 +1452,7 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999263
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1485,7 +1484,7 @@ http://45.186.105.185:8000/play/a0gt/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1507,7 +1506,7 @@ http://190.90.71.103:8000/play/a0ao/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1518,7 +1517,7 @@ https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1529,18 +1528,18 @@ https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999226
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",140. holvoet tv 
-https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",140. nicoya tv
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1551,7 +1550,7 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1562,7 +1561,7 @@ https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1573,7 +1572,7 @@ https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1584,7 +1583,7 @@ https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1627,7 +1626,7 @@ https://jmp2.uk/stvp-ESBD800001RJ
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1671,7 +1670,7 @@ https://d20xuwbyc4yoag.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1682,7 +1681,7 @@ https://amg27164-amg27164c2-amgplt0085.playout.now3.amagi.tv/playout/amg27164/am
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1693,7 +1692,7 @@ https://amg00658-amg00658c8-lg-co-7847.playouts.now.amagi.tv/playlist/amg00658-c
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1704,7 +1703,7 @@ https://jmp2.uk/rok-02cdd68d6244543b83ff35d990891463.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1726,7 +1725,7 @@ http://190.90.71.103:8000/play/a02j/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1737,7 +1736,7 @@ https://live-manifest.production-public.tubi.io/live/3900e8be-5992-4e76-9d58-9f8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1748,7 +1747,7 @@ https://jmp2.uk/rok-308d792301e9897cbd41d0390abef68f.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1811,7 +1810,7 @@ http://200.125.170.123:8000/play/a02k/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1821,7 +1820,7 @@ http://186.33.45.218:8000/play/a0km/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1832,84 +1831,84 @@ https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",168. todo drama
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",174. cinecanal
+http://201.190.41.246:7912/play/a01z/index.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",169. todo drama
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=drama%2Cromance%2Csoap-opera&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_merli_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6828&ads.rakuten_streaming_id=33c1efab-b299-4266-a69e-c363c90d718f&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883119&ads.xumo_channel_id=88883119&ads.xumo_contentId=2054&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2054&ads.xumo_providerName=todo-drama-spa-rakutentv&ads.xumo_streamId=88883119
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",169. todo comedia
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",170. todo comedia
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=comedy&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusSpanish&ads.content_livestream=0&ads.csid=zeus_es_vayasemanita_ssai&ads.extra_eids=&ads.gam_correlator=&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6978&ads.rakuten_streaming_id=89b10388-c314-43ae-8cc9-f34610147b5c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883129&ads.xumo_channel_id=88883129&ads.xumo_contentId=1103&ads.xumo_contentName=Indigenius&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1103&ads.xumo_providerName=todo-comedia-spa-rakutentv&ads.xumo_streamId=88883129
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",170. k-drama
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",171. k-drama
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=k-dramabymbc&channel_id=newid_337&mpf=79b005ff-39af1962-8b37bda5&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=5dfff943-067be473-85f3955b-710b7edf&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",171. K-drama romcom 
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",172. K-drama romcom 
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=romcomk-drama&channel_id=newid_232&mpf=08189b47-39af1962-48097429&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=7e44fa59-d887b105-7d1f1344-aff72ba9&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",172. wedo tv
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",173. wedo tv
 https://amg00735-amg00735c15-rakuten-es-8598.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-rakutenes/playlist.m3u8?ads_amagi_channel_id=1051&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=romance%2Csoap-opera&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_ip=185.214.97.75&ads_market=es&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_prodq=1&ads_rating=12&ads_rtv_content_id=7049&ads_rtv_content_language=es&ads_rtvid=271859&ads_streaming_id=f37193d5-f758-4d95-865b-97bed35b91da&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",173. spark tv
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",174. spark tv
 https://jmp2.uk/rok-b0d5db7f498f56fcaf1f8289eea6ea4d.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",174. todo novelas
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=67d18d7b0431f385ba055b38&AV_CONTENT_LANGUAGE=es&AV_CONTENT_GENRE=tv%20novelas&AV_CONTENT_CAT=IAB1-5&AV_CONTENT_RATING=PG&AV_CLIENT_SECTION=zylo_todonovelas&content_channel_name=todonovelas&content_livestream=1&AV_CONTENT_PROVIDER=Zylo&ads.vidaa_ads_param=1191723366
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1930,7 +1929,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1941,7 +1940,7 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1952,7 +1951,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1963,7 +1962,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12781&avod=1&coppa=0&td=6&
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -1974,14 +1973,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=13958&avod=1&coppa=0&td=6&
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",181. feel good tv
-https://daiconnect.com/live/hls/tvup/rk-feelgood/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_channelstore_channel_id=914&ads_content_categories=IAB1&ads_content_genre=action%2Ccomedy%2Cdrama&ads_content_livestream=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_extra_eids=&ads_gam_correlator=&ads_gdpr_consent=&ads_ifa_type=&ads_inv_partner_domain=rakuten.tv&ads_market=es&ads_network_name=RakutenTV&ads_opt_out_flag=1&ads_os_language=&ads_placement=1&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_prodq=1&ads_rating=16&ads_rtv_content_id=7036&ads_rtv_content_language=es&ads_streaming_id=f4b0de17-2f87-4177-93e5-19d0c5667420&ads_tcs_channel_id=914&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",181. garabito tv
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
@@ -2007,7 +2006,7 @@ https://action-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2018,7 +2017,7 @@ https://romance-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b7
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2029,7 +2028,7 @@ https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b6
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2040,7 +2039,7 @@ https://sci-fi-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2051,7 +2050,7 @@ https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2062,7 +2061,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2084,7 +2083,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2095,7 +2094,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2106,7 +2105,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2117,7 +2116,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2128,7 +2127,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2139,7 +2138,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2150,7 +2149,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux)
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M) ExoPlayerLib/1.10.0-alpha01
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2161,7 +2160,7 @@ https://jmp2.uk/rok-9fc6583c28985e15b3f05b46f5d77957.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2172,7 +2171,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmasco-lgco/pl
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)<
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2183,7 +2182,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2194,7 +2193,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-xiaomi/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2205,7 +2204,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16561&avod=1&coppa=0&td=6&
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2216,7 +2215,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealfreetv-ono/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2227,7 +2226,7 @@ https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2259,7 +2258,7 @@ http://200.125.170.123:8000/play/a02o/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2292,7 +2291,7 @@ https://7bb2f486b8cd470296181dff19a115d0.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2303,7 +2302,7 @@ https://240d7025e5434cb687148fff33611a9c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2314,7 +2313,7 @@ https://f9ae66011b3c42c89d56196105a1b792.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2325,7 +2324,7 @@ https://55a8e146e2a14a0288735149357b44c0.mediatailor.us-east-1.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2336,7 +2335,7 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2347,7 +2346,7 @@ https://amg00740-sofa-amg00740c10-lg-mx-8915.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2358,7 +2357,7 @@ https://amg00740-sofa-amg00740c20-lg-mx-8976.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2369,7 +2368,7 @@ https://amg00740-sofa-amg00740c14-lg-mx-8914.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2380,7 +2379,7 @@ https://amg00740-sofa-amg00740c19-lg-mx-8924.playouts.now.amagi.tv/playlist/amg0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2391,7 +2390,7 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2413,7 +2412,7 @@ http://8.242.189.221:9050/play/a0cu/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2424,7 +2423,7 @@ https://amg17724-amg17724c1-lg-latam-11388.playouts.now.amagi.tv/ts-us-w2-n1/pla
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2512,7 +2511,7 @@ http://190.90.71.103:8000/play/a01n/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2554,14 +2553,14 @@ http://45.190.187.183:8080/play/a1kr
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+#EXTVLCOPT:http-user-agent=IPTV Box/1.0 (Android 11; TV)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",234. nickelodeon
-http://f7c59e6e.ottolok.net/iptv/DNL3YEXETMK7RR4TBAV48TQM/31846/index.m3u8 
+http://190.110.254.29:8000/play/a026/index.m3u8 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
@@ -2597,7 +2596,7 @@ https://jmp2.uk/stvp-ESBD3200002V5
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2619,7 +2618,7 @@ http://190.90.71.103:8000/play/a07v/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2673,7 +2672,7 @@ https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/N2IXYNBLLX4DWYFU7VAP/hls3/now
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2684,7 +2683,7 @@ https://live-manifest.production-public.tubi.io/live/1d55cb91-9acf-4617-9207-0ce
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2717,7 +2716,7 @@ https://dcs3-live.mp.lura.live/server/play/0bnenbTDekmrcpl0/manifest.m3u8?encp=z
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2728,7 +2727,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2739,7 +2738,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2849,7 +2848,7 @@ http://200.58.64.244:9000/play/a00i/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2871,7 +2870,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaes-lges/play
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2882,14 +2881,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvuses-lgmx/playli
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
-#EXTVLCOPT--http-reconnect=true====
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",264. la liga tv inside
 https://jmp2.uk/stvp-ESBD3600001Q1 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2911,7 +2910,7 @@ https://jmp2.uk/stvp-ESBD2900001P9
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2944,18 +2943,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=757&livestream=1&live=1&ap
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Mi Box) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.210 Safari/537.36
+#EXTVLCOPT:http-user-agent=IPTV Box/1.0 (Android 11; TV)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:1 tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/ee71dafb-d934-48ce-8ad2-50a10d323b3b/1332270666/ott-navigator-iptv-logo.png" group-title="ESPAÑOL الأسبانية",270. fox sports
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278595.m3u8
+http://190.110.254.29:8000/play/a042/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
@@ -2966,7 +2965,7 @@ https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_ch
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=DRM Player/2.4.3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.3.3 (Linux; Android 11; SM-A032M)
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOOT:dns-doh=https://cloudflare-dns.com/dns-query
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
